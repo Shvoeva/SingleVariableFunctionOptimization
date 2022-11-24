@@ -1,0 +1,26 @@
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe.config
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.pdb
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.AssemblyReference.cache
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.SuggestedBindingRedirects.cache
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.CoreCompileInputs.cache
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.pdb
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\MathNet.Numerics.dll
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\System.ValueTuple.dll
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\MathNet.Numerics.xml
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\System.ValueTuple.xml
+C:\Users\SDS\Desktop\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.CopyComplete
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe.config
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.pdb
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\MathNet.Numerics.dll
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\System.ValueTuple.dll
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\MathNet.Numerics.xml
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\bin\Debug\System.ValueTuple.xml
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.AssemblyReference.cache
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.SuggestedBindingRedirects.cache
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.CoreCompileInputs.cache
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.csproj.CopyComplete
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.exe
+C:\Users\SDS\Documents\Учеба\Методы оптимизации\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy\obj\Debug\Lab1.OptimizaciyaFunkciyOdnoyPeremennoy.pdb
